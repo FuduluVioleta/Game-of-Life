@@ -53,7 +53,7 @@ This project demonstrates the integration of embedded programming, digital elect
 
 ### Hardware 
 
-![Hardware Schematic](images/hardware.jpg)
+![Hardware Schematic](images/hardware2.jpg)
 
 ### PCB / Electric Scheme
 
