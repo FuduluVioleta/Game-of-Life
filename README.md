@@ -95,6 +95,3 @@ STM32-Game-of-Life
 
 ---
 
-## Author
-
-**Violeta Fudulu**
