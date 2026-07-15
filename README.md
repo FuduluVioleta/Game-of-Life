@@ -51,17 +51,17 @@ This project demonstrates the integration of embedded programming, digital elect
 
 ## Project Images
 
-### Hardware Schematic
+### Hardware 
 
-![Hardware Schematic](images/game_of_life_schematic.png)
+![Hardware Schematic](images/hardware.jpg)
 
-### PCB / Hardware Design
+### PCB / Electric Scheme
 
-![Hardware Design](images/pcb_design.png)
+![Hardware Design](images/electric_scheme.jpg)
 
-### Prototype
+### Organigram
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/game_scheme.jpg)
 
 ---
 
